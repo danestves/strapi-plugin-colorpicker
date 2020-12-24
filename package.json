@@ -1,0 +1,34 @@
+{
+  "name": "strapi-plugin-colorpicker",
+  "version": "0.0.1",
+  "description": "Color picker field for strapi admin",
+  "strapi": {
+    "name": "colorpicker",
+    "icon": "plug",
+    "description": "Color picker field for strapi admin."
+  },
+  "files": [
+    "admin"
+  ],
+  "dependencies": {
+    "lodash.isempty": "^4.4.0",
+    "react-color": "^2.19.3"
+  },
+  "author": {
+    "name": "Daniel Esteves",
+    "email": "estevesd8@gmail.com",
+    "url": "https://danestves.com"
+  },
+  "maintainers": [
+    {
+      "name": "Daniel Esteves",
+      "email": "estevesd8@gmail.com",
+      "url": "https://danestves.com"
+    }
+  ],
+  "engines": {
+    "node": ">=10.16.0 <=14.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
