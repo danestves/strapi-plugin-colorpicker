@@ -1,7 +1,14 @@
-import pluginPkg from "../../package.json";
-import ColorPicker from "./components/colorPicker";
-import pluginId from "./pluginId";
+// Assets
 import pluginLogo from "./assets/images/logo.svg";
+
+// Components
+import ColorPicker from "./components/ColorPicker";
+
+// Package
+import pluginPkg from "../../package.json";
+
+// Utils
+import pluginId from "./pluginId";
 
 export default (strapi) => {
   const pluginDescription =

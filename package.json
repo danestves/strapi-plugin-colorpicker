@@ -1,29 +1,31 @@
 {
   "name": "strapi-plugin-colorpicker",
   "version": "0.0.2",
-  "description": "Color picker field for strapi admin",
+  "description": "A plugin for Strapi Headless CMS that provides colorpicker field.",
   "strapi": {
     "name": "colorpicker",
     "icon": "plug",
-    "description": "Color picker field for strapi admin."
+    "description": "A plugin for Strapi Headless CMS that provides colorpicker field."
   },
   "files": [
     "admin"
   ],
   "dependencies": {
     "lodash.isempty": "^4.4.0",
-    "react-color": "^2.19.3"
+    "react-colorful": "^5.0.0",
+    "react-use": "^17.1.1",
+    "tinycolor2": "^1.4.2"
   },
   "author": {
     "name": "Daniel Esteves",
-    "email": "estevesd8@gmail.com",
-    "url": "https://danestves.com"
+    "email": "danestves@gmail.com",
+    "url": "https://danestves.com/en"
   },
   "maintainers": [
     {
       "name": "Daniel Esteves",
-      "email": "estevesd8@gmail.com",
-      "url": "https://danestves.com"
+      "email": "danestves@gmail.com",
+      "url": "https://danestves.com/en"
     }
   ],
   "engines": {

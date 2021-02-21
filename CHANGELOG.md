@@ -10,6 +10,20 @@ Changelog entries are classified using the following labels _(from [keep-a-chang
 - `removed`: for deprecated features removed in this release
 - `fixed`: for any bug fixes
 
+## [1.0.0] - 2020-02-21
+
+### Added
+
+- Integrated new [react-colorful](https://github.com/omgovich/react-colorful) to improve the color field
+
+### Changed
+
+- Less functions to change the state and manage `hex`, `rgb` and `css` objects.
+
+### Removed
+
+- Deleting `react-color` due to big size of build
+
 ## [0.0.2] - 2020-12-24
 
 ### Added
