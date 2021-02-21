@@ -1,11 +1,15 @@
 {
   "name": "strapi-plugin-colorpicker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A plugin for Strapi Headless CMS that provides colorpicker field.",
   "strapi": {
     "name": "colorpicker",
     "icon": "plug",
     "description": "A plugin for Strapi Headless CMS that provides colorpicker field."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danestves/strapi-plugin-colorpicker.git"
   },
   "files": [
     "admin"
