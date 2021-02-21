@@ -41,7 +41,7 @@ export const Alpha = styled.span`
 export const RgbaContainer = styled.div`
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  grid-gap: 4px;
+  grid-gap: 2px;
 
   & input {
     padding: 0.375rem;
