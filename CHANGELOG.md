@@ -15,6 +15,7 @@ Changelog entries are classified using the following labels _(from [keep-a-chang
 ### Added
 
 - Integrated new [react-colorful](https://github.com/omgovich/react-colorful) to improve the color field
+- Custom rgba field to change the alpha of the color
 
 ### Changed
 
