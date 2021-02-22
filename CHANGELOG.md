@@ -10,6 +10,12 @@ Changelog entries are classified using the following labels _(from [keep-a-chang
 - `removed`: for deprecated features removed in this release
 - `fixed`: for any bug fixes
 
+## [1.0.2] - 2020-02-22
+
+### Fixed
+
+- Mission hook `useFirstRender`
+
 ## [1.0.1] - 2020-02-21
 
 ### Added
