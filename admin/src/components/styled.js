@@ -36,6 +36,7 @@ export const Alpha = styled.span`
   right: 8px;
   transform: translateY(-50%);
   color: #495057;
+  z-index: 100;
 `;
 
 export const RgbaContainer = styled.div`

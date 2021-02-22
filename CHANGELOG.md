@@ -10,6 +10,12 @@ Changelog entries are classified using the following labels _(from [keep-a-chang
 - `removed`: for deprecated features removed in this release
 - `fixed`: for any bug fixes
 
+## [1.0.3] - 2020-02-22
+
+### Fixed
+
+- `z-index` for colorpicker setting
+
 ## [1.0.2] - 2020-02-22
 
 ### Fixed
