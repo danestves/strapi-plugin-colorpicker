@@ -1,6 +1,6 @@
 {
   "name": "strapi-plugin-colorpicker",
-  "version": "1.0.3",
+  "version": "1.0.35",
   "description": "A plugin for Strapi Headless CMS that provides colorpicker field.",
   "strapi": {
     "name": "colorpicker",

@@ -24,6 +24,7 @@ export const PopOver = styled.div`
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
   max-width: 200px;
   overflow: hidden;
+  z-index: 100;
 
   & .react-colorful__alpha.react-colorful__last-control {
     border-radius: 0;
@@ -36,7 +37,6 @@ export const Alpha = styled.span`
   right: 8px;
   transform: translateY(-50%);
   color: #495057;
-  z-index: 100;
 `;
 
 export const RgbaContainer = styled.div`
